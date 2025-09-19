@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Sumon Kaysar**
 
-![Banner](./images/github-cover.jpg)
+![Banner](./images/github-cover.png)
 
 ---
 
